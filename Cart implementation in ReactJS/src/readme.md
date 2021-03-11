@@ -1,1 +1,0 @@
-Cart implementation in JS
